@@ -1,5 +1,8 @@
 package com.scaler.constructors;
 
+// Run Client.main()
+// [ClassName].main()
+// [ObjName].main()
 public class Client {
 
     public static void main(String[] args) {
